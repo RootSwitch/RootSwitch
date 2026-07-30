@@ -61,3 +61,15 @@ looking at it.
 One login, a tile for every app, opt-in single sign-on across the suite, and
 board upload/download from the browser - the address you give someone that
 makes six ports feel like one product.
+
+Outside the suite:
+
+### [RSConclave](https://github.com/RootSwitch/RSConclave) - several models, one conversation
+
+A web UI for the local LLMs on your own box, and the one thing here that is not
+about networks. Send one prompt to several models and have another consolidate
+the answers, or seat two of them at a roundtable and let them argue a question
+out turn by turn. Personas and presets are reusable, each person's history stays
+private, and it runs next to your inference box rather than on one machine, so
+the same sessions are there from a desktop or a phone. Zero dependencies, no
+build step, nothing leaves the network.
