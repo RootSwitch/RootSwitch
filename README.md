@@ -37,7 +37,7 @@ Find and replace across files, inside Office documents too, with undo on every r
 
 ## Self-hosted
 
-**[Canvas Suite](https://github.com/RootSwitch/canvas-suite)** - the monitoring suite.
+**[Canvas-Suite](https://github.com/RootSwitch/Canvas-Suite)** - the monitoring suite.
 Six apps that turn a network diagram into a live view of the network behind it.
 One-shot install scripts stand the whole thing up on a fresh Linux box or a Pi.
 **[Try it](https://rootswitch.github.io/canvas-suite-demo/)**
