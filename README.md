@@ -1,6 +1,6 @@
 ## RootSwitch
 
-Network engineer with a passion for diagrams. I build small tools with an ethos
+Network engineer with a passion for diagrams. I build tools with an ethos
 of simplicity and usability - each does one thing well, runs on hardware you
 already have, and makes no calls home.
 
