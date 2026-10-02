@@ -24,7 +24,7 @@ Windows desktop tools. Nothing installs, nothing needs admin, nothing phones hom
 
 **[CrossCanvas](https://github.com/RootSwitch/CrossCanvas)** - the diagram editor.
 One HTML file, no build step, no network calls. Imports Visio, draw.io and Gliffy.
-**[Try it](https://rootswitch.github.io/canvas-suite-demo/)**
+**[Try it](https://rootswitch.github.io/CrossCanvas/)**
 
 **[RSMultiTerm](https://github.com/RootSwitch/RSMultiTerm)** - the terminal emulator.
 SSH, Telnet and serial in one grid, typing to every pane at once. Logs every session.
@@ -36,6 +36,11 @@ Types into consoles that refuse to paste, and lifts text off the screen with OCR
 Find and replace across files, inside Office documents too, with undo on every run.
 
 ## Self-hosted
+
+**[RSCanvas](https://github.com/RootSwitch/rscanvas-release)** - the monitoring platform.
+A robust, unified successor to Canvas-Suite, albeit still in alpha. SNMP polling,
+reachability, syslog and traps, alerting, and wall boards driven by your own network
+diagram, all in one self-hosted process.
 
 **[Canvas-Suite](https://github.com/RootSwitch/Canvas-Suite)** - the monitoring suite.
 Six apps that turn a network diagram into a live view of the network behind it.
