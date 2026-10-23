@@ -41,6 +41,7 @@ Find and replace across files, inside Office documents too, with undo on every r
 A robust, unified successor to Canvas-Suite, albeit still in alpha. SNMP polling,
 reachability, syslog and traps, alerting, and wall boards driven by your own network
 diagram, all in one self-hosted process.
+**[Try it](https://rootswitch.github.io/rscanvas-demo/)**
 
 **[Canvas-Suite](https://github.com/RootSwitch/Canvas-Suite)** - the monitoring suite.
 Six apps that turn a network diagram into a live view of the network behind it.
